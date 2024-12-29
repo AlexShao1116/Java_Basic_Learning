@@ -42,7 +42,7 @@
 - **A:** Move Left
 - **S:** Move Down
 - **D:** Move Right
-- **J:** Shoot
+- **SPACE:** Shoot
 
 ### Objective
 - Destroy all enemy tanks while avoiding being hit.
